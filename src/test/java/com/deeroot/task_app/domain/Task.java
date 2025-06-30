@@ -1,5 +1,8 @@
 package com.deeroot.task_app.domain;
 
+import com.deeroot.task_app.domain.entities.TaskList;
+import com.deeroot.task_app.domain.entities.TaskPriority;
+import com.deeroot.task_app.domain.entities.TaskStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
